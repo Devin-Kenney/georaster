@@ -1,1 +1,1 @@
-# geotiff
+# georaster
